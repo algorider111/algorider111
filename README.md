@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Algorider!
+# 👋 Hi, I'm Ahnaf!
 
 Welcome to my GitHub profile! I’m a passionate beginner competitive programmer, currently learning algorithms and data structures, and actively participating in coding contests.
 
